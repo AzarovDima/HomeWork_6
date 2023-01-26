@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\bin\Debug\net7.0\4.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\bin\Debug\net7.0\4.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\bin\Debug\net7.0\4.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\bin\Debug\net7.0\4.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\bin\Debug\net7.0\4.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\refint\4.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\4.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_6\HomeWork_6\4\obj\Debug\net7.0\ref\4.dll
